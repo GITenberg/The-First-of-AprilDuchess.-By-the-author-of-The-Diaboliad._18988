@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8391
     wikipedia: http://en.wikipedia.org/wiki/William_Combe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18988#The-First-of-AprilDuchess.-By-the-author-of-The-Diaboliad.
 gutenberg_issued: '2006-08-04'
 gutenberg_type: Text
 identifiers:
